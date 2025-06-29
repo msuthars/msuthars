@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Manish Suthar
+# 👋 Hi, I'm Manish Kumar
 
 🌍 Rajasthan, India • 💻 Full-Stack Web Developer • 🚀 Open Source Enthusiast
 
